@@ -1,0 +1,8 @@
+.custom-button {
+    -fx-font: 13px "Helvetica";
+    -fx-background-color: #007fff;
+}
+
+.custom-progress-bar {
+    -fx-accent: #007fff;
+}
