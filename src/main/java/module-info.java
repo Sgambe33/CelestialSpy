@@ -15,7 +15,6 @@ module com.example.javafxtest {
     // requires SLF4j module
     requires org.slf4j.nop;
     requires java.sql;
-    requires vecmath;
     requires org.orekit;
     requires hipparchus.geometry;
     requires hipparchus.core;
